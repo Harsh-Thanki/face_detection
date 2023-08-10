@@ -1,4 +1,4 @@
-# img_recognize
+# face_detection
 
 Complete face-detection app using Python and the OpenCV module. 
 
