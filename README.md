@@ -15,7 +15,7 @@ Ensure you have the latest version of Python installed. Go to [https://python.or
 ### 2. Clone this repository 
 
 ```bash
-$ clone git@github.com:Harsh-Thanki/img_recognize.git
+$ git clone git@github.com:Harsh-Thanki/img_recognize.git
 ```
 
 ### 3. Install the required Python module
